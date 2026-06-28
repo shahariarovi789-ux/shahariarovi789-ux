@@ -21,8 +21,7 @@
   <a href="mailto:shahariar.ovi789@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- TODO: update once your portfolio is deployed -->
-  <a href="#" target="_blank">
+  <a href="https://shahariarovi789-ux.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
