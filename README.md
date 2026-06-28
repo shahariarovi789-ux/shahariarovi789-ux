@@ -37,7 +37,7 @@
 - 🎓 Computer Science & Engineering undergrad at the **University of Liberal Arts Bangladesh (ULAB)**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Large Language Models**
 - 🏆 **2× ICPC Dhaka Regional Finalist** — 3+ years of competitive programming in C++
-- 💼 Backend AI Engineer Intern **@ FlyRank AI**
+- 💼 Backend AI Engineer Intern **@ [FlyRank AI](https://flyrank.ai/)**
 - 🌱 Currently deepening my skills in **applied ML & LLM-based applications**
 - 💬 Ask me about **C++, Python, problem-solving, and AI**
 - ⚽ Outside code: cricket & football
