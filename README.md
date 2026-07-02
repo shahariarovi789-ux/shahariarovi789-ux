@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahariar+Asfaq+Ovi;ICPC+Regionalist+%F0%9F%9A%80;ML+%26+Edge+AI+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahariar+Asfaq+Ovi;Competitive+Programmer+%F0%9F%8F%86;ML+%26+AI+Enthusiast+%F0%9F%A7%A0;CSE+Undergrad+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 <h3 align="center">CSE Undergrad · AI Enthusiast · Competitive Programmer 🇧🇩</h3>
@@ -40,7 +40,7 @@
 
 - 🎓 Computer Science & Engineering undergrad at the **University of Liberal Arts Bangladesh (ULAB)**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Large Language Models**
-- 🏆 **2× ICPC Dhaka Regional Finalist** — 3+ years of competitive programming in C++
+- 🏆 **2× ICPC Dhaka Regionalist** — 3+ years of competitive programming in C++
 - 💼 Backend AI Engineer Intern **@ [FlyRank AI](https://flyrank.ai/)**
 - 🌱 Currently deepening my skills in **applied ML & LLM-based applications**
 - 💬 Ask me about **C++, Python, problem-solving, and AI**
@@ -87,7 +87,7 @@
 
 ### 🏅 Achievements
 
-- 🥇 **ICPC Dhaka Regional Finalist** — 2024 & 2023
+- 🥇 **ICPC Dhaka Regionalist** — 2024 & 2023
 - 🏆 **2nd Runners-up** — Take-off Programming Contest (ULAB CPC), 2023
 - 🤗 **Foundations of Agentic AI** — Hugging Face
 - 📜 **Machine Learning Specialization** (Supervised, Advanced Algorithms, Unsupervised/RL) — Coursera
