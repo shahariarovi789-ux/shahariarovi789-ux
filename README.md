@@ -99,7 +99,10 @@
 
 ### 🚀 Projects
 
-> 🚧 Currently organizing my competitive-programming solutions and ML coursework into clean repositories — **coming soon!**
+* 👁️ **[AeroDraw — Edge AI Gesture Controller](https://github.com/shahariarovi789-ux/gesture-control)**: Local React edge computer vision drawing application using Google MediaPipe and WebAssembly to track hand coordinates and simulate system mouse clicks.
+* 🧠 **[OmegaNet — Neural Framework from Scratch](https://github.com/shahariarovi789-ux/omeganet)**: A modular deep learning framework built in Python using only NumPy (dense/dropout layers, backpropagation, and Adam optimizer).
+* 🧭 **[Orion — Multi-Agent Corrective RAG](https://github.com/shahariarovi789-ux/orion-agent-rag)**: Multi-agent research assistant implementing the Corrective RAG loop with document relevance evaluation, web search fallback, and self-critique.
+* 🏥 **[Hospital Management System](https://github.com/shahariarovi789-ux/hospital-management-system)**: Sleek and responsive clinic dashboard built in React.
 
 ---
 
