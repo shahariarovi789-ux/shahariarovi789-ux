@@ -12,11 +12,14 @@
 -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=180&section=header&text=Shahariar%20Asfaq%20Ovi&fontSize=42&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="Header Wave" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahariar+Asfaq+Ovi;Competitive+Programmer+%F0%9F%8F%86;ML+%26+AI+Enthusiast+%F0%9F%A7%A0;CSE+Undergrad+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=40&lines=Competitive+Programmer+%F0%9F%8F%86;ML+%26+AI+Enthusiast+%F0%9F%A7%A0;CSE+Undergrad+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
-<h3 align="center">CSE Undergrad · AI Enthusiast · Competitive Programmer 🇧🇩</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/only-ovi" target="_blank">
