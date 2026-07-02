@@ -75,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/shahariarovi789-ux">Shahariar Asfaq Ovi</a></i></p>
