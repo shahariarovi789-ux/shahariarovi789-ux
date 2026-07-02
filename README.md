@@ -39,37 +39,15 @@
 
 ---
 
-### 🧠 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="30" align="center" /> About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🖥️ System Profile (JSON)
-```json
-{
-  "username": "shahariarovi789-ux",
-  "status": "CSE Undergrad @ ULAB",
-  "experience": {
-    "languages": ["C++", "Python", "JS"],
-    "icpc": "2x Dhaka Regionalist",
-    "internship": "AI @ FlyRank AI"
-  },
-  "interests": ["ML", "LLM Apps", "CP"]
-}
-```
-    </td>
-    <td width="50%" valign="top">
-
-#### 📖 Human Readable
-* 🎓 CSE Undergrad student at **ULAB**
-* 💼 Backend AI Engineer Intern at **FlyRank AI**
-* 🌱 Deepening skills in **applied ML & LLM applications**
-* 💬 Ask me about: **C++, Python, CP, and AI**
-* ⚽ Outside code: cricket & football
-    </td>
-  </tr>
-</table>
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="22" align="center" /> CSE Undergrad student at the **University of Liberal Arts Bangladesh (ULAB)**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="22" align="center" /> Passionate about **Artificial Intelligence, Machine Learning & Large Language Models**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="22" align="center" /> **2× ICPC Dhaka Regionalist** — 3+ years of competitive programming in C++
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="22" align="center" /> Backend AI Engineer Intern **@ [FlyRank AI](https://flyrank.ai/)**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="22" align="center" /> Currently deepening my skills in **applied ML & LLM-based applications**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech Balloon" width="22" align="center" /> Ask me about **C++, Python, problem-solving, and AI**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Soccer Ball" width="22" align="center" /> Outside code: cricket & football
 
 ---
 
