@@ -97,7 +97,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/shahariarovi789-ux">Shahariar Asfaq Ovi</a></i></p>
