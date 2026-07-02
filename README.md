@@ -41,13 +41,35 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science & Engineering undergrad at the **University of Liberal Arts Bangladesh (ULAB)**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Large Language Models**
-- 🏆 **2× ICPC Dhaka Regionalist** — 3+ years of competitive programming in C++
-- 💼 Backend AI Engineer Intern **@ [FlyRank AI](https://flyrank.ai/)**
-- 🌱 Currently deepening my skills in **applied ML & LLM-based applications**
-- 💬 Ask me about **C++, Python, problem-solving, and AI**
-- ⚽ Outside code: cricket & football
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🖥️ System Profile (JSON)
+```json
+{
+  "username": "shahariarovi789-ux",
+  "status": "CSE Undergrad @ ULAB",
+  "experience": {
+    "languages": ["C++", "Python", "JS"],
+    "icpc": "2x Dhaka Regionalist",
+    "internship": "AI @ FlyRank AI"
+  },
+  "interests": ["ML", "LLM Apps", "CP"]
+}
+```
+    </td>
+    <td width="50%" valign="top">
+
+#### 📖 Human Readable
+* 🎓 CSE Undergrad student at **ULAB**
+* 💼 Backend AI Engineer Intern at **FlyRank AI**
+* 🌱 Deepening skills in **applied ML & LLM applications**
+* 💬 Ask me about: **C++, Python, CP, and AI**
+* ⚽ Outside code: cricket & football
+    </td>
+  </tr>
+</table>
 
 ---
 
