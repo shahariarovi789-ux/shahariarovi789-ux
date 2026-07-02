@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ---
