@@ -99,7 +99,7 @@
 
 ### 🚀 Projects
 
-* 🎓 **[ROAR — A personalized AI tutor for Prompt Engineering](https://github.com/shahariarovi789-ux/roar-prompt-tutor)**: Capstone project implementing an adaptive prompt engineering tutor using quantized local DeepSeek-7B models fine-tuned with PEFT/LoRA adapters.
+* 🎓 **[ROAR — Final Year Capstone Project (ULAB)](https://github.com/shahariarovi789-ux/roar-prompt-tutor)**: Selected as the official final-year university capstone project. Implements an adaptive prompt engineering tutor using quantized local DeepSeek-7B models fine-tuned with PEFT/LoRA adapters.
 * 👁️ **[AeroDraw — Edge AI Gesture Controller](https://github.com/shahariarovi789-ux/gesture-control)**: Local React edge computer vision drawing application using Google MediaPipe and WebAssembly to track hand coordinates and simulate system mouse clicks.
 * 🧠 **[OmegaNet — Neural Framework from Scratch](https://github.com/shahariarovi789-ux/omeganet)**: A modular deep learning framework built in Python using only NumPy (dense/dropout layers, backpropagation, and Adam optimizer).
 * 🧭 **[Orion — Multi-Agent Corrective RAG](https://github.com/shahariarovi789-ux/orion-agent-rag)**: Multi-agent research assistant implementing the Corrective RAG loop with document relevance evaluation, web search fallback, and self-critique.
