@@ -102,8 +102,10 @@
 
 ---
 
+### 📊 Detailed Analytics
+
 <p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </p>
 
 
