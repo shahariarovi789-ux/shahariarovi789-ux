@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,fastapi,mysql,sqlite,redis,git,docker,html,css,js,java,php" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,fastapi,mysql,sqlite,redis,git,docker,html,css,js,java,php" alt="My Skills" />
   </a>
 </p>
 
@@ -92,12 +92,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Ovi's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahariarovi789-ux&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Ovi's GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarovi789-ux&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Ovi's Contribution Streak" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&title_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&langs_count=6&hide=javascript,css,html&cache_seconds=1800" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&title_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&langs_count=6&hide=javascript,css,html&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
