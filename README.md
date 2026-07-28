@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="./header.svg?v=2" width="100%" alt="Shahariar Asfaq Ovi" />
+  <img src="./header.svg?v=3" width="100%" alt="Shahariar Asfaq Ovi" />
 </p>
 
 <p align="center">
