@@ -102,10 +102,6 @@
 
 ---
 
-### 📊 Detailed Analytics
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/shahariarovi789-ux">Shahariar Asfaq Ovi</a></i></p>
 
 
