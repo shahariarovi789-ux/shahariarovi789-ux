@@ -63,7 +63,7 @@
 
   <!-- Subtitle -->
   <text x="50%" y="135" font-family="'Inter', system-ui, sans-serif" font-size="16" font-weight="500" fill="#94a3b8" text-anchor="middle" letter-spacing="1">
-    BACKEND AI ENGINEER &amp; ALGORITHM DEVELOPER
+    BACKEND AI ENGINEER &amp; COMPETITIVE PROGRAMMER
   </text>
 
   <!-- Decorative Stats/Labels (Flickering) -->
