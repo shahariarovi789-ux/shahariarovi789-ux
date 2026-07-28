@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <!-- Text Accent Gradient -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.5" opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg-grad)" rx="12" />
+
+  <!-- Grid Overlay -->
+  <rect width="800" height="200" fill="url(#grid)" rx="12" />
+
+  <!-- Futuristic Corner Highlights -->
+  <path d="M 20 40 L 20 20 L 40 20" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.8" />
+  <path d="M 780 40 L 780 20 L 760 20" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.8" />
+  <path d="M 20 160 L 20 180 L 40 180" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.8" />
+  <path d="M 780 160 L 780 180 L 760 180" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.8" />
+
+  <!-- Name -->
+  <text x="50%" y="95" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="44" font-weight="800" fill="url(#text-grad)" text-anchor="middle" letter-spacing="-1">
+    Shahariar Asfaq Ovi
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="135" font-family="'Inter', system-ui, sans-serif" font-size="16" font-weight="500" fill="#94a3b8" text-anchor="middle" letter-spacing="1">
+    BACKEND AI ENGINEER &amp; ALGORITHM DEVELOPER
+  </text>
+
+  <!-- Decorative Stats/Labels -->
+  <text x="50" y="170" font-family="'Courier New', monospace" font-size="11" fill="#475569">
+    LOC: DHAKA_BD
+  </text>
+  <text x="750" y="170" font-family="'Courier New', monospace" font-size="11" fill="#475569" text-anchor="end">
+    CP: 2X_ICPC_REGIONALIST
+  </text>
+</svg>

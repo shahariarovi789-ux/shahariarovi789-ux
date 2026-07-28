@@ -11,29 +11,13 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=sliced&color=0:1d4ed8,100:0891b2&height=180&text=Shahariar%20Asfaq%20Ovi&fontSize=42&fontAlign=50&fontAlignY=35&theme=tokyonight" alt="Header Wave" />
+  <img src="./header.svg" width="100%" alt="Shahariar Asfaq Ovi" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&height=40&lines=Backend+AI+Intern+@+FlyRank+AI;2%C3%97+ICPC+Dhaka+Regionalist;Building+Local+LLM+%26+Agentic+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/only-ovi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shahariar.ovi789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shahariarovi789-ux.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahariarovi789-ux&label=Profile%20views&color=0891b2&style=flat" alt="profile views" />
+  💼 <strong><a href="https://linkedin.com/in/only-ovi" target="_blank">LinkedIn</a></strong> &nbsp;&bull;&nbsp; 
+  ✉️ <strong><a href="mailto:shahariar.ovi789@gmail.com">Email</a></strong> &nbsp;&bull;&nbsp; 
+  🌐 <strong><a href="https://shahariarovi789-ux.github.io" target="_blank">Portfolio Website</a></strong>
 </p>
 
 ---
@@ -60,45 +44,52 @@
 
 ### 🚀 Highlighted Repositories
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/roar-prompt-tutor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=roar-prompt-tutor&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="ROAR" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/orion-agent-rag">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=orion-agent-rag&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="Orion" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/gesture-control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=gesture-control&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="AeroDraw" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/omeganet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=omeganet&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true" alt="OmegaNet" />
-      </a>
-    </td>
-  </tr>
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr bgcolor="#161b22">
+      <th align="left">Repository &amp; Description</th>
+      <th align="right" width="250">Primary Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>🧭 <a href="https://github.com/shahariarovi789-ux/orion-agent-rag">Orion — Multi-Agent Corrective RAG (CRAG)</a></strong><br>
+        Multi-agent research assistant implementing the CRAG loop to eliminate LLM hallucinations. Programmed NumPy cosine similarity relevancy check (0.75 threshold).
+      </td>
+      <td align="right">
+        <code>Python</code> · <code>Gemini API</code> · <code>NumPy</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🎓 <a href="https://github.com/shahariarovi789-ux/roar-prompt-tutor">ROAR — Final Year Capstone Project</a></strong><br>
+        Adaptive prompt engineering tutor using a quantized (4-bit NF4) DeepSeek-R1 Distill Qwen-7B base model fine-tuned via PEFT/LoRA adapters.
+      </td>
+      <td align="right">
+        <code>DeepSeek-R1</code> · <code>PEFT/LoRA</code> · <code>Gradio</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🧠 <a href="https://github.com/shahariarovi789-ux/omeganet">OmegaNet — Neural Framework from Scratch</a></strong><br>
+        Modular deep learning framework built in Python using only NumPy matrix operations, implementing vectorized <em>O(N)</em> dense/dropout layers and Adam optimizer.
+      </td>
+      <td align="right">
+        <code>Python</code> · <code>NumPy</code> · <code>Vectorized</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>👁️ <a href="https://github.com/shahariarovi789-ux/gesture-control">AeroDraw — Edge AI Gesture Controller</a></strong><br>
+        Client-side computer vision application enabling users to draw in the air and control interfaces via WebAssembly-based MediaPipe hand-tracking vectors at 60 FPS.
+      </td>
+      <td align="right">
+        <code>React</code> · <code>MediaPipe</code> · <code>WebAssembly</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahariarovi789-ux&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Ovi's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarovi789-ux&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Ovi's Contribution Streak" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&title_color=0891b2&text_color=94a3b8&bg_color=0d1117&hide_border=true&langs_count=6&hide=javascript,css,html&cache_seconds=1800" alt="Top Languages" />
-</p>
 
 ---
 
@@ -114,7 +105,5 @@
 <p align="center">
   <img src="https://gh-trophy.cdnsoft.net/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 </p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/shahariarovi789-ux">Shahariar Asfaq Ovi</a></i></p>
 
 
