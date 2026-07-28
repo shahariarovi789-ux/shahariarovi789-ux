@@ -22,25 +22,22 @@ My engineering is grounded in competitive programming—having competed twice as
 
 ---
 
-### Core Focus Areas
+### 🛠️ Tech Stack & Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=00599C) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=007396) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777BB4) |
+| **AI / ML & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=150458) ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=F37626) |
+| **Backend & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688) ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=07405E) ![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED) ![LaTeX](https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080) |
+
+---
+
+### 🧠 Core Focus Areas
 
 *   **Backend AI Engineering**: Architecting asynchronous, multi-agent systems, integrating vector search indexers (Qdrant, ChromaDB), and orchestrating fast LLM inference.
 *   **Deep Learning & Fine-Tuning**: Quantization techniques (4-bit NF4), PEFT/LoRA fine-tuning, and writing neural network frameworks from scratch.
 *   **Algorithms & Optimization**: 3+ years of competitive programming in C++ focused on graph theory, dynamic programming, and space/time complexity optimization.
-
----
-
-### Engineering Toolkit
-
-```
-┌───────────────────┬────────────────────────────────────────────────────────┐
-│ Languages         │ C++, Python, JavaScript (ES6+), Java, SQL, PHP         │
-├───────────────────┼────────────────────────────────────────────────────────┤
-│ AI & ML Stack     │ PyTorch, NumPy, PEFT/LoRA fine-tuning, RAG, MediaPipe   │
-├───────────────────┼────────────────────────────────────────────────────────┤
-│ Frameworks & Tools│ FastAPI, React, Node.js, SQLite, Qdrant, Docker, Git   │
-└───────────────────┴────────────────────────────────────────────────────────┘
-```
 
 ---
 
