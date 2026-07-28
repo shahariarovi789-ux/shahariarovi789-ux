@@ -10,110 +10,67 @@
   ════════════════════════════════════════════════════════════════════════
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=180&section=header&text=Shahariar%20Asfaq%20Ovi&fontSize=42&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="Header Wave" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=40&lines=Backend+AI+Intern+@+FlyRank+AI;2%C3%97+ICPC+Dhaka+Regionalist;Building+Local+LLM+%26+Agentic+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/only-ovi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shahariar.ovi789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shahariarovi789-ux.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahariarovi789-ux&label=Profile%20views&color=3b82f6&style=flat" alt="profile views" />
-</p>
+# Shahariar Asfaq Ovi
+**Backend AI Engineer & Algorithm Developer**  
+*Dhaka, Bangladesh · [shahariar.ovi789@gmail.com](mailto:shahariar.ovi789@gmail.com) · [linkedin.com/in/only-ovi](https://linkedin.com/in/only-ovi) · [shahariarovi789-ux.github.io](https://shahariarovi789-ux.github.io)*
 
 ---
 
-### 🧠 About Me
+I build high-performance backend systems and machine learning architectures. Currently, I am a Backend AI Engineer Intern at **FlyRank AI**, working on multi-agent workflows and vector search indexers. 
 
-* 🎓 **CSE Undergrad** at the **University of Liberal Arts Bangladesh (ULAB)** (Final Semester)
-* 🚀 **Backend AI Engineer Intern** at **[FlyRank AI](https://flyrank.ai/)**
-* 🏆 **2× ICPC Dhaka Regionalist** (2023 & 2024) — 3+ years of competitive programming in C++
-* 🤖 **Applied ML & Agentic Systems**: Passionate about LLMs, RAG pipelines, and local PEFT/LoRA fine-tuning
-* ⚽ **Hobbies**: Football, cricket, and chess
+My engineering is grounded in competitive programming—having competed twice as a regional finalist in the **ICPC Dhaka Regionals**.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### Core Focus Areas
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **AI / ML & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Web & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Tools & Versioning**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+*   **Backend AI Engineering**: Architecting asynchronous, multi-agent systems, integrating vector search indexers (Qdrant, ChromaDB), and orchestrating fast LLM inference.
+*   **Deep Learning & Fine-Tuning**: Quantization techniques (4-bit NF4), PEFT/LoRA fine-tuning, and writing neural network frameworks from scratch.
+*   **Algorithms & Optimization**: 3+ years of competitive programming in C++ focused on graph theory, dynamic programming, and space/time complexity optimization.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### Engineering Toolkit
 
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ovi's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarovi789-ux&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ovi's Contribution Streak" />
+```
+┌───────────────────┬────────────────────────────────────────────────────────┐
+│ Languages         │ C++, Python, JavaScript (ES6+), Java, SQL, PHP         │
+├───────────────────┼────────────────────────────────────────────────────────┤
+│ AI & ML Stack     │ PyTorch, NumPy, PEFT/LoRA fine-tuning, RAG, MediaPipe   │
+├───────────────────┼────────────────────────────────────────────────────────┤
+│ Frameworks & Tools│ FastAPI, React, Node.js, SQLite, Qdrant, Docker, Git   │
+└───────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Highlighted Repositories
+
+#### 🧭 [Orion — Multi-Agent Corrective RAG (CRAG)](https://github.com/shahariarovi789-ux/orion-agent-rag)
+*A multi-agent research assistant implementing the Corrective RAG loop to eliminate LLM hallucinations.*
+*   Built using **Python** and **Gemini API**.
+*   Implemented a document relevancy evaluator using **NumPy cosine similarity** (0.75 threshold) with a fallback to DuckDuckGo search queries, maintaining retrieval latency below **120ms**.
+
+#### 🎓 [ROAR — Final Year Capstone Project](https://github.com/shahariarovi789-ux/roar-prompt-tutor)
+*An adaptive prompt engineering tutor using fine-tuned local models.*
+*   Built using **DeepSeek-R1 Distill Qwen-7B** (locally quantized to 4-bit NF4) and **PEFT/LoRA** adapters.
+*   Achieved **94.2% grading alignment** with human evaluators using a custom 3-tier difficulty learning state machine.
+
+#### 🧠 [OmegaNet — Neural Framework from Scratch](https://github.com/shahariarovi789-ux/omeganet)
+*A modular deep learning framework written entirely in Python.*
+*   Built using only **NumPy** matrix operations.
+*   Implemented vectorized *O(N)* dense/dropout layers, backpropagation sweeps, and a custom **Adam optimizer** from first principles, achieving **98.4% accuracy** on non-linear spiral data in 45 epochs.
+
+#### 👁️ [AeroDraw — Edge AI Gesture Controller](https://github.com/shahariarovi789-ux/gesture-control)
+*An interactive hand-gesture tracker for mouse-less interface navigation.*
+*   Built using **React (Vite)**, **MediaPipe**, and **WebAssembly**.
+*   Tracks hand landmark vectors in real-time, rendering at a smooth **60 FPS** on local client webcams.
+
+---
+
+### Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarovi789-ux&show_icons=true&theme=dark&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&bg_color=0d1117" alt="Ovi's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,css,html&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Highlighted Projects
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/roar-prompt-tutor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=roar-prompt-tutor&theme=tokyonight&hide_border=true" alt="ROAR" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/orion-agent-rag">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=orion-agent-rag&theme=tokyonight&hide_border=true" alt="Orion" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/gesture-control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=gesture-control&theme=tokyonight&hide_border=true" alt="AeroDraw" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shahariarovi789-ux/omeganet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariarovi789-ux&repo=omeganet&theme=tokyonight&hide_border=true" alt="OmegaNet" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏅 Achievements & Certifications
-
-- 🥇 **ICPC Dhaka Regional Finalist** — 2024 & 2023
-- 🏆 **2nd Runners-up** — Take-off Programming Contest Hosted By ULAB Computer Programming Club, 2023
-- 🤗 **Foundations of Agentic AI** — Hugging Face, 2025
-- 📜 **Machine Learning Specialization** — Coursera
-
----
-
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/shahariarovi789-ux">Shahariar Asfaq Ovi</a></i></p>
