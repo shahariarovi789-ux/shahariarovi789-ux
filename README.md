@@ -216,12 +216,12 @@ Designed a real-time computer vision controller utilizing MediaPipe landmark vec
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.anuraghazra.com/api?username=shahariarovi789-ux&show_icons=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&cache_seconds=1800&v=5" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=shahariarovi789-ux&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&cache_seconds=1800&v=5" alt="Contribution Streak" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=shahariarovi789-ux&show_icons=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&cache_seconds=1800&v=6" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=shahariarovi789-ux&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&cache_seconds=1800&v=6" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=shahariarovi789-ux&layout=compact&title_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&langs_count=6&hide=javascript,css,html&cache_seconds=1800&v=5" alt="Top Languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahariarovi789-ux&layout=compact&title_color=a855f7&text_color=e2e8f0&bg_color=0c0a0f&hide_border=true&langs_count=6&hide=javascript,css,html&cache_seconds=1800&v=6" alt="Top Languages" />
 </p>
 
 ---
@@ -229,7 +229,7 @@ Designed a real-time computer vision controller utilizing MediaPipe landmark vec
 ## 11. GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10&v=5" alt="Trophies" />
+  <img src="https://trophy.benkou.dev/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10&v=6" alt="Trophies" />
 </p>
 
 ---
