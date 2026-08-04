@@ -245,7 +245,7 @@ Designed a real-time computer vision controller utilizing MediaPipe landmark vec
 ## 13. Contribution Snake
 
 <p align="center">
-  <img src="./github-contribution-grid-snake-dark.svg?v=5" alt="Contribution Snake" width="100%" />
+  <img src="./github-contribution-grid-snake.svg?v=6" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
