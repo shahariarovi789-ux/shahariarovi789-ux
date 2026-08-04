@@ -15,7 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ULAB-B.Sc.%20in%20CSE-7c3aed?style=flat-square&logo=academia" alt="Education" />
+  <a href="https://ulab.edu.bd" target="_blank">
+    <img src="./ulab-logo.png" height="20" alt="ULAB Logo" />
+  </a>
+  <img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-7c3aed?style=flat-square&logo=academia" alt="Education" />
   <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
