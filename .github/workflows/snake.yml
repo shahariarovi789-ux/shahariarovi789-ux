@@ -22,12 +22,20 @@ jobs:
         with:
           github_user_name: shahariarovi789-ux
           outputs: |
-            github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg?palette=github-dark&color_snake=%238b5cf6&color_dots=%23161b22,%233b0764,%23581c87,%23701a75,%23a21caf,%23d946ef
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Inject Month & Weekday Labels
+        run: python inject_labels.py
 
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "chore: update contribution snake animation with zero parameters" || exit 0
+          git commit -m "chore: update contribution snake animation with injected months and custom purple palette" || exit 0
           git push
