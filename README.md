@@ -47,7 +47,7 @@
 
 ## 2. About Me
 
-I am a software engineer specializing in backend AI architectures, deep learning optimization, and high-performance algorithms. With an academic background in Computer Science & Engineering from ULAB and hands-on experience in organic growth orchestration at FlyRank AI, I bridge the gap between model prototyping and production engineering.
+I am a software engineer specializing in backend AI architectures, deep learning optimization, and high-performance algorithms. With an academic background in Computer Science & Engineering from ULAB and hands-on experience in AI data training, document intelligence, and multi-agent backend systems, I bridge the gap between model prototyping and production engineering.
 
 *   **Engineering Focus**: Designing distributed systems, constructing fast vector indexes, and managing multi-agent state machines.
 *   **AI/ML Practice**: Quantized LLM fine-tuning (PEFT/LoRA), Corrective RAG (CRAG) design patterns, and writing deep learning blocks from scratch.
@@ -260,7 +260,7 @@ learning:
   - Advanced Distributed Systems
   - CUDA programming for custom layer acceleration
 building:
-  - Asynchronous multi-agent pipelines for FlyRank AI
+  - Model Context Protocol (MCP) servers & multi-agent backends
 exploring:
   - DeepSeek architectures and optimization layers
 open_to:
