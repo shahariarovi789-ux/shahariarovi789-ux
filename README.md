@@ -249,7 +249,7 @@ Five decoupled cognitive agents (Onboarding, Lesson, Quiz, Evaluator, Hardware S
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shahariarovi789-ux&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
@@ -257,7 +257,7 @@ Five decoupled cognitive agents (Onboarding, Lesson, Quiz, Evaluator, Hardware S
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarovi789-ux&theme=react-dark&bg_color=0c0a0f&color=60a5fa&line=60a5fa&point=3b82f6" alt="Activity Graph" width="100%" />
+  <img src="https://readme-activity-graph.vercel.app/graph?username=shahariarovi789-ux&theme=react-dark&bg_color=0c0a0f&color=60a5fa&line=60a5fa&point=3b82f6" alt="Activity Graph" width="100%" />
 </p>
 
 ---
